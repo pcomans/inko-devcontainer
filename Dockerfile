@@ -25,10 +25,7 @@ RUN cargo install ivm
 
 ENV PATH="/root/.local/share/ivm/bin:$PATH"
 
-RUN ivm install 0.13.1
-RUN ivm default 0.13.1
+RUN ivm install latest 
+RUN ivm default $(ivm list | grep -oP "\d+\.\d+\.\d+")
 
 WORKDIR /usr/src/inko
-
-# Keep the container running
-# CMD ["tail", "-f", "/dev/null"]
