@@ -1,0 +1,9 @@
+{
+    "name": "Inko",
+    "build": {
+        // Path is relative to the devcontainer.json file.
+        "dockerfile": "Dockerfile"
+    },
+    "workspaceMount": "source=${localWorkspaceFolder}/src,target=/usr/src/inko,type=bind",
+    "workspaceFolder": "/usr/src/inko"
+}
