@@ -4,11 +4,11 @@ There are several options for running Inko in a devcontainer
 In the [Github repo](https://github.com/pcomans/inko-devcontainer) click on "Code" and then on "Create codespace on main".
 
 ## Option 2: Run in Docker through Visual Studio Code
+Install [Docker Desktop](https://www.docker.com/products/docker-desktop/).
+
 Install [Visual Studio Code](https://code.visualstudio.com/).
 
 In VSCode, install the [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension.
-
-Install [Docker Desktop](https://www.docker.com/products/docker-desktop/).
 
 Clone this repository: `git clone https://github.com/pcomans/inko-devcontainer`.
 
