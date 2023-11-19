@@ -1,5 +1,5 @@
 # inko-devcontainer
-There are several options for running Inko in a devcontainer
+There are several options for running Inko in a devcontainer.
 
 ## Option 1: Run in Github Codespace
 On the [Github repo](https://github.com/pcomans/inko-devcontainer) click on **Code** and then on **Create codespace on main**.
