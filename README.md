@@ -10,7 +10,9 @@ Install [DevPod](https://devpod.sh/).
 
 In DevPod, click on **Create Workspace**.
 
-Under **Workplace Source** enter `git clone https://github.com/pcomans/inko-devcontainer`
+Under **Workplace Source** enter `https://github.com/pcomans/inko-devcontainer`.
+
+On the bottom click **Create Workspace**.
 
 ## Option 3: Run in Docker through Visual Studio Code
 Install [Docker Desktop](https://www.docker.com/products/docker-desktop/).
