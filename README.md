@@ -2,7 +2,7 @@
 There are several options for running Inko in a devcontainer
 
 ## Option 1: Run in Github Codespace
-In the [Github repo](https://github.com/pcomans/inko-devcontainer) click on **Code** and then on **Create codespace on main**.
+On the [Github repo](https://github.com/pcomans/inko-devcontainer) click on **Code** and then on **Create codespace on main**.
 
 ## Option 2: Run in DevPod
 Install [Docker Desktop](https://www.docker.com/products/docker-desktop/).
